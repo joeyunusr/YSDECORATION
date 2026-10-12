@@ -1,0 +1,8 @@
+{
+  "name": "YS Decoration - Manufaktur \u0026 Supplier Perlengkapan Event B2B",
+  "description": "Manufaktur konveksi, tekstil dekorasi, furnitur event, dan tenda YS Decoration untuk persewaan tenda, vendor event, dan gedung pertemuan. Lokasi Desa Sampora, Kuningan, Jawa Barat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
